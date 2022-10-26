@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/abhishek-portfolio/static/css/main.b308bec1.css",
+    "main.js": "/abhishek-portfolio/static/js/main.4705f6ed.js",
+    "static/media/project4.jpg": "/abhishek-portfolio/static/media/project4.d4673aa001c95ba2a629.jpg",
+    "static/media/project3.jpg": "/abhishek-portfolio/static/media/project3.ad4b5dbc1040230eecaa.jpg",
+    "static/media/me3.jpg": "/abhishek-portfolio/static/media/me3.02a214ecf17b0ae63acc.jpg",
+    "static/media/me4.jpg": "/abhishek-portfolio/static/media/me4.2a3926c07bbc446f6467.jpg",
+    "static/media/project1.jpg": "/abhishek-portfolio/static/media/project1.ae1e15fcefe8aa7e708b.jpg",
+    "static/media/Abhishek_Mehta_2022.pdf": "/abhishek-portfolio/static/media/Abhishek_Mehta_2022.083eda432a0f1d6ad83f.pdf",
+    "static/media/project2.jpg": "/abhishek-portfolio/static/media/project2.cf911d4fb186eb3744c9.jpg",
+    "index.html": "/abhishek-portfolio/index.html",
+    "main.b308bec1.css.map": "/abhishek-portfolio/static/css/main.b308bec1.css.map",
+    "main.4705f6ed.js.map": "/abhishek-portfolio/static/js/main.4705f6ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b308bec1.css",
+    "static/js/main.4705f6ed.js"
+  ]
+}
