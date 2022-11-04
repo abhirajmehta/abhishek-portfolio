@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/abhishek-portfolio/static/css/main.cdce286f.css",
+    "main.css": "/abhishek-portfolio/static/css/main.1ff725f9.css",
     "main.js": "/abhishek-portfolio/static/js/main.b2aebd9d.js",
     "static/media/project4.jpg": "/abhishek-portfolio/static/media/project4.d4673aa001c95ba2a629.jpg",
     "static/media/project3.jpg": "/abhishek-portfolio/static/media/project3.ad4b5dbc1040230eecaa.jpg",
@@ -10,11 +10,11 @@
     "static/media/Abhishek_Mehta_2022.pdf": "/abhishek-portfolio/static/media/Abhishek_Mehta_2022.083eda432a0f1d6ad83f.pdf",
     "static/media/project2.jpg": "/abhishek-portfolio/static/media/project2.cf911d4fb186eb3744c9.jpg",
     "index.html": "/abhishek-portfolio/index.html",
-    "main.cdce286f.css.map": "/abhishek-portfolio/static/css/main.cdce286f.css.map",
+    "main.1ff725f9.css.map": "/abhishek-portfolio/static/css/main.1ff725f9.css.map",
     "main.b2aebd9d.js.map": "/abhishek-portfolio/static/js/main.b2aebd9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdce286f.css",
+    "static/css/main.1ff725f9.css",
     "static/js/main.b2aebd9d.js"
   ]
 }
