@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/abhishekmehta/static/css/main.b308bec1.css",
-    "main.js": "/abhishekmehta/static/js/main.1ed28efc.js",
-    "static/media/project4.jpg": "/abhishekmehta/static/media/project4.d4673aa001c95ba2a629.jpg",
-    "static/media/project3.jpg": "/abhishekmehta/static/media/project3.ad4b5dbc1040230eecaa.jpg",
-    "static/media/me3.jpg": "/abhishekmehta/static/media/me3.02a214ecf17b0ae63acc.jpg",
-    "static/media/me4.jpg": "/abhishekmehta/static/media/me4.2a3926c07bbc446f6467.jpg",
-    "static/media/project1.jpg": "/abhishekmehta/static/media/project1.ae1e15fcefe8aa7e708b.jpg",
-    "static/media/Abhishek_Mehta_2022.pdf": "/abhishekmehta/static/media/Abhishek_Mehta_2022.083eda432a0f1d6ad83f.pdf",
-    "static/media/project2.jpg": "/abhishekmehta/static/media/project2.cf911d4fb186eb3744c9.jpg",
-    "index.html": "/abhishekmehta/index.html",
-    "main.b308bec1.css.map": "/abhishekmehta/static/css/main.b308bec1.css.map",
-    "main.1ed28efc.js.map": "/abhishekmehta/static/js/main.1ed28efc.js.map"
+    "main.css": "/abhishek-portfolio/static/css/main.cdce286f.css",
+    "main.js": "/abhishek-portfolio/static/js/main.b2aebd9d.js",
+    "static/media/project4.jpg": "/abhishek-portfolio/static/media/project4.d4673aa001c95ba2a629.jpg",
+    "static/media/project3.jpg": "/abhishek-portfolio/static/media/project3.ad4b5dbc1040230eecaa.jpg",
+    "static/media/me3.jpg": "/abhishek-portfolio/static/media/me3.02a214ecf17b0ae63acc.jpg",
+    "static/media/me4.jpg": "/abhishek-portfolio/static/media/me4.2a3926c07bbc446f6467.jpg",
+    "static/media/project1.jpg": "/abhishek-portfolio/static/media/project1.ae1e15fcefe8aa7e708b.jpg",
+    "static/media/Abhishek_Mehta_2022.pdf": "/abhishek-portfolio/static/media/Abhishek_Mehta_2022.083eda432a0f1d6ad83f.pdf",
+    "static/media/project2.jpg": "/abhishek-portfolio/static/media/project2.cf911d4fb186eb3744c9.jpg",
+    "index.html": "/abhishek-portfolio/index.html",
+    "main.cdce286f.css.map": "/abhishek-portfolio/static/css/main.cdce286f.css.map",
+    "main.b2aebd9d.js.map": "/abhishek-portfolio/static/js/main.b2aebd9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b308bec1.css",
-    "static/js/main.1ed28efc.js"
+    "static/css/main.cdce286f.css",
+    "static/js/main.b2aebd9d.js"
   ]
 }
