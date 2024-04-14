@@ -58,12 +58,19 @@
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6); */
 
-    --color-bg: #202020;
+    /* --color-bg: #202020;
     --color-bg-variant: #424242;
     --color-primary: #6DB201;
     --color-primary-variant: #EDE574;
     --color-white: #fff;
-    --color-light:#e3e3e3;;
+    --color-light:#e3e3e3;; */
+
+    --color-bg: #fff;
+    --color-bg-variant: #c5c0c0;
+    --color-primary: #6DB201;
+    --color-primary-variant: #EDE574;
+    --color-white: #202020;
+    --color-light: #424242;
 
     /* +++++++++GoodOne */
 

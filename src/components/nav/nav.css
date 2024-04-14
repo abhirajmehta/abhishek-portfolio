@@ -16,7 +16,8 @@ nav {
 
 nav a {
     background: transparent;
-    padding: 0.9rem;
+    padding: 0.6rem;
+    /* padding-left: 2rem; */
     border-radius: 50%;
     display: flex;
     color: var(--color-light);
@@ -25,6 +26,7 @@ nav a {
 
 nav a:hover {
     background: rgba(0, 0, 0, 0.5);
+
 }
 
 nav a.active {

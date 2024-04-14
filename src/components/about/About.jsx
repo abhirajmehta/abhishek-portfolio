@@ -30,7 +30,7 @@ const About = () => {
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>System Engineer 1 Year</h5>
+              <h5>Senior System Engineer 2.5 Year</h5>
               <small>Infosys (Currently Serving)</small>
             </article>
 
@@ -41,7 +41,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Developer! For a few years now, I have chased this title. But depending upon who you are, it's you, who get's to decide who I am. If you think having a CS degree is all you need, then probably I am not your "Guy". But if you need somebody who has a purpose, who can bend a problem and mold it into a solution, you are at the right place! Here I have listed down a few things about myself. Where do I work, what do I do and what I have done till now. That said, if you think I have anything to offer, just let me know.</p>
+          <p>Hello there! How are you? Here, I have listed down a few things about myself. Where do I work, what do I do, and what I have done till now. Apart from this, there are many more sides to me. I like Art. When I was little, I used to draw, then I shifted to music, and started producing music. As I grew up, my interest also grew towards the world, because of which, I read a lot about philosophy, psychology, self-help, and a little bit of history.  Now a days, I also write. Not a typical journal guy but I do often write. You can consider me an explorer,  well, sort of, and I like to see things as if they are stories. And, as Einstein said, "The most important question any man must decide for himself is whether or not he lives in a friendly or a hostile universe",  I believe, we Humans are the ultimate adaptation machines, and we can do wonders. That said, if you think I have anything to offer, just let me know.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
